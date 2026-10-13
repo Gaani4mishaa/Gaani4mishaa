@@ -28,7 +28,7 @@ Repository:
 https://github.com/Gaani4mishaa/trivia-multiplayer-game
 
 ### Kakuma Refugee Kiosk
-An offline web application designed to improve access to essential community services within refugee communities.
+A web application designed to improve access to essential community services within refugee community in Kakuma camp.
 
 Repository:
 https://github.com/Gaani4mishaa/kakuma-refugee-kiosk
@@ -40,5 +40,3 @@ I'm currently strengthening my Cloud Engineering skills by building AWS projects
 ## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/amina-mohamed-47794b297/
-- Portfolio: Coming Soon
-- Email: amishmohamedd@gmail.com
