@@ -19,19 +19,7 @@ I'm a Software Engineering student at USIU-Africa with a strong interest in Clou
 - Tools: Git, GitHub, Linux, VS Code, XAMPP
 - Deployment: Vercel, Render
 
-## Featured Projects
 
-### Trivia Masters - Multiplayer Trivia Game
-A real-time multiplayer trivia game built with React, Node.js, Express, Socket.io, and SQLite.
-
-Repository:
-https://github.com/Gaani4mishaa/trivia-multiplayer-game
-
-### Kakuma Refugee Kiosk
-A web application designed to improve access to essential community services within refugee community in Kakuma camp.
-
-Repository:
-https://github.com/Gaani4mishaa/kakuma-refugee-kiosk
 
 ## Current Focus
 
